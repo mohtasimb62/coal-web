@@ -1,9 +1,10 @@
+import Dashboard from "./components/Dashboard"
+
 function App() {
 
   return (
     <>
-      <h1>Hello World</h1>
-      <h2>Yo Victor</h2>
+    <Dashboard></Dashboard>
     </>
   )
 }
